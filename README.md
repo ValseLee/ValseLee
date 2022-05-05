@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ValseLee
-- 👀 I’m interested in Vanila JS, Swift, Dart, Flutter
-- 🌱 I’m currently learning JS ES6, Dart, Flutter
-- 💞️ I’m looking to collaborate on ...
+## Hello, this is Valse Lee
+---
+- and as you can see, this readme.md is not edited.
 
 <!---
 ValseLee/ValseLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
