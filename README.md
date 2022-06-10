@@ -2,10 +2,10 @@
 <h3 align='center'>
 Hello, this is Valse Lee<br>
 and as you can see..<br>
-this readme is still on Working💪🏻
+this readme.md is still on Working💪🏻
 </h3>
 <hr>
-<h4 align='center'> - Studying These Stacks...🛠 </h4>
+<h3 align='center'> - Studying These Stacks...🛠 </h3>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
@@ -16,12 +16,15 @@ this readme is still on Working💪🏻
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <br>
   
-  <h4 align='center'> - Tools that I Use...⚒️ </h4>
+  <h3 align='center'> - Tools that I Use...⚒️ </h3>
  <p align='center'>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat&logo=Sublime Text&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </p>
 
 <p align='center'>
