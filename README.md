@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi👋🏻%20I'm%20Valse&fontAlign=75&fontSize=60)
 <h3 align='center'>
-Hello, this is Valse Lee<br>
-and as you can see..<br>
-this readme.md is still on Working💪🏻
+Hello, this is Valse Lee🐥<br>
+  
 </h3>
 <hr>
 <h3 align='center'> - Studying These Stacks...🛠 </h3>
