@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi👋🏻%20I'm%20Valse&fontAlign=75&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi👋🏻%20I'm%20Valse(Celan,Lee)&fontAlign=65&fontSize=45)
 <h3 align='center'>
 Hello, this is Valse Lee🐥<br>
   
