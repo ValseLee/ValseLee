@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi👋🏻%20I'm%20Valse(Celan,Lee)&fontAlign=65&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi👋🏻%20I'm%20SeungJun%20Lee&fontAlign=65&fontSize=45)
 <h3 align='center'>
-Hello, this is Valse Lee🐥<br>
-  
+<br>
+안녕하세요. 이승준입니다. :) <br>
+
 </h3>
 <hr>
 <h3 align='center'> - Studying These Stacks...🛠 </h3>
