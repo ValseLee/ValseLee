@@ -9,6 +9,8 @@
 <a href = "https://velog.io/@valse">
   <img src="https://img.shields.io/badge/velog-20C997?style=social&logo=velog&logoColor=20C997"/>
 </a>
+  <a href="https://hits.seeyoufarm.com">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/valselee%2Fgjbae1212%2Fhit-counter&count_bg=%23373B44&title_bg=%234286f4&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
 </div>
 
 <hr>
@@ -40,6 +42,7 @@
 </p>
 
 <p align='center'>
-  <a href="mailto:sollleky72@gmail.com"><img src="https://github-readme-stats.vercel.app/api?username=valselee&show_icons=true&theme=dark&layout=compact"/>
+  <a href="mailto:sollleky72@gmail.com">
+  <img src="https://github-readme-stats.vercel.app/api?username=valselee&show_icons=true&theme=dark&layout=compact"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valselee&show_icons=true&theme=dark&layout=compact"/>
 </p>
