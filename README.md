@@ -2,18 +2,25 @@
 <h3 align='center'>
 <br>
 안녕하세요. 이승준입니다. :) <br>
-
+  
 </h3>
+
+<div align='center'>
+<a href = "https://velog.io/@valse">
+  <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=black"/>
+</a>
+</div>
+
 <hr>
 <h3 align='center'> - Studying These Stacks...🛠 </h3>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vapor-0D0D0D?style=flat&logo=Vapor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> -->
   <br>
   
   <h3 align='center'> - Tools that I Use...⚒️ </h3>
@@ -26,6 +33,7 @@
   <br>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 </p>
 
 <p align='center'>
