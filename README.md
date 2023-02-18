@@ -50,6 +50,14 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 </p>
 
+<h3 align='center'> 🎓 Activities 🏃🏻 </h3>
+ <p align='center'>
+  - Likelion App School 1st Generation Graduate <br>
+  - Apple Developer Academy 2nd Generation Runner <br>
+</p>
+
+<hr>
+
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=valselee&show_icons=true&theme=dark&layout=compact"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valselee&show_icons=true&theme=dark&layout=compact"/>
