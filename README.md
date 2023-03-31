@@ -52,14 +52,15 @@
 
 <h3 align='center'> 🎓 Activities 🏃🏻 </h3>
  <p align='center'>
-  - Likelion App School 1st Generation Graduate <br>
-  - Apple Developer Academy 2nd Generation Runner <br>
+  - 🦁 Likelion App School 1st Generation Graduate <br>
+  - 🏃🏻 Apple Developer Academy 2nd Generation Runner <br>
+  - 👷🏻‍♂️ Apple Developer Academy 2nd Generation Community Builder <br>
 </p>
 
 <h3 align='center'> 👑 Awards 🎖️ </h3>
  <p align='center'>
-  - Likelion App School 1st Generation - Team Project(GitSpace) Excellence Awards <br>
-  - Likelion App School 1st Generation - Praiseworthy Companion Awards <br>
+  - 🏆 Likelion App School 1st Generation - Team Project(GitSpace) Excellence Awards <br>
+  - 🏆 Likelion App School 1st Generation - Praiseworthy Companion Awards <br>
 </p>
 
 <hr>
