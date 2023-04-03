@@ -50,11 +50,17 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 </p>
 
+<hr>
+
+<h3 align='center'> 🪖 Work Experiences </h3>
+<p align='center'>
+  - ☁️ Goorm EduBiz Squad, EduOps Manager(`21.09. ~ `22.05., 9 months) <br>
+</p>
 <h3 align='center'> 🎓 Activities 🏃🏻 </h3>
  <p align='center'>
-  - 🦁 Likelion App School 1st Generation Graduate <br>
-  - 🏃🏻 Apple Developer Academy 2nd Generation Runner <br>
-  - 👷🏻‍♂️ Apple Developer Academy 2nd Generation Community Builder <br>
+  - 🦁 Likelion App School 1st Generation Graduate(`22.09. - `23.02., 6 months) <br>
+  - 🏃🏻 Apple Developer Academy 2nd Generation Runner(`23.03. - ing, 9 months) <br>
+  - 👷🏻‍♂️ Apple Developer Academy 2nd Generation Community Builder(`23.03. - ing, 9 months) <br>
 </p>
 
 <h3 align='center'> 👑 Awards 🎖️ </h3>
