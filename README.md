@@ -58,9 +58,9 @@
 </p>
 <h3 align='center'> 🎓 Activities 🏃🏻 </h3>
  <p align='center'>
+  - 🏃🏻 Apple Developer Academy @POSTECH 2nd Generation Runner(`23.03. - ing, 9 months) <br>
+  - 👷🏻‍♂️ Apple Developer Academy @POSTECH 2nd Generation Community Builder(`23.03. - ing, 9 months) <br>
   - 🦁 Likelion App School 1st Generation Graduate(`22.09. - `23.02., 6 months) <br>
-  - 🏃🏻 Apple Developer Academy 2nd Generation Runner(`23.03. - ing, 9 months) <br>
-  - 👷🏻‍♂️ Apple Developer Academy 2nd Generation Community Builder(`23.03. - ing, 9 months) <br>
 </p>
 
 <h3 align='center'> 👑 Awards 🎖️ </h3>
