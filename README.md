@@ -60,6 +60,7 @@
  <p align='center'>
   - 🏃🏻 Apple Developer Academy @POSTECH 2nd Generation Runner(`23.03. - ing, 9 months) <br>
   - 👷🏻‍♂️ Apple Developer Academy @POSTECH 2nd Generation Community Builder(`23.03. - ing, 9 months) <br>
+  - 🐝 Apple Developer Academy @POSTECH 2nd Generation Unconference Organizer(`23.05. -ing) <br>
   - 🦁 Likelion App School 1st Generation Graduate(`22.09. - `23.02., 6 months) <br>
 </p>
 
