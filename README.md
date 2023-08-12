@@ -48,15 +48,15 @@ This is Celan, Lee :)
 <hr>
 
 ### 🪖 Work Experiences
-- ☁️ Goorm EduBiz Squad, EduOps Manager(`21.09. ~ `22.05., 9 months) <br>
+- ☁️ Goorm EduBiz Squad, EduOps Manager(\`21.09. ~ \`22.05., `9 months`) <br>
 
 <hr>
 
 ### 🏃🏻 Activities
--  Apple Developer Academy @POSTECH 2nd Generation Runner(`23.03. - ing, 9 months) <br>
--  Apple Developer Academy @POSTECH 2nd Generation Community Builder(`23.03. - ing, 9 months) <br>
--  Apple Developer Academy @POSTECH 2nd Generation Unconference Organizer(`23.05. -ing) <br>
-- 🦁 Likelion App School 1st Generation Graduate(`22.09. - `23.02., 6 months) <br>
+-  Apple Developer Academy @POSTECH 2nd Generation Runner(\`23.03. - ing, `9 months`) <br>
+-  Apple Developer Academy @POSTECH 2nd Generation Community Builder(\`23.03. - ing, `9 months`) <br>
+-  Apple Developer Academy @POSTECH 2nd Generation Unconference Organizer(\`23.05. -ing, `7 months`) <br>
+- 🦁 Likelion App School 1st Generation Graduate(\`22.09. - \`23.02., `6 months`) <br>
 
 
 ### 🕺🏻 Contributions
