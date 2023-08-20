@@ -53,18 +53,22 @@ This is Celan, Lee :)
 <hr>
 
 ### 🏃🏻 Activities
--  Apple Developer Academy @POSTECH 2nd Generation Runner(\`23.03. - ing, `9 months`) <br>
--  Apple Developer Academy @POSTECH 2nd Generation Community Builder(\`23.03. - ing, `9 months`) <br>
--  Apple Developer Academy @POSTECH 2nd Generation Unconference Organizer(\`23.05. -ing, `7 months`) <br>
-- 🦁 Likelion App School 1st Generation Graduate(\`22.09. - \`23.02., `6 months`) <br>
+####  Apple Developer Academy @POSTECH 2nd Generation Learner(\`23.03. - ing, `9 months`)
+  - Community Builder(\`23.03. - ing, `9 months`)
+    - WWDC Watch Party Organizer(\'23.06.05. - \'23.06.06.)
+    - WWDC Watch Party ['Who am I: Networking' Session](https://brunch.co.kr/@3756ea803def4ac/87) **Speaker** (\'23.06.05.)
+  - Unconference **Organizer**(\`23.05. -ing, `7 months`)
+    - May Unconference ['Code Review For Ourselves` Workshop](https://github.com/DeveloperAcademy-POSTECH/Unconference2023/tree/main/UnconferenceWorkshop/UnconferenceWorkshop) **Actor**(\'23.05.31.) 
+  - [The Composable Architecture Workshop](https://github.com/ValseLee/TCA_Workshop) **Actor**(\'23.08.17., \'23.08.22.) <br>
+#### 🦁 Likelion App School 1st Generation Graduate(\`22.09. - \`23.02., `6 months`) <br>
 
+---
 
 ### 🕺🏻 Contributions
 - PointFree.co: swift-composable-architecture <br>
   - <a href="https://github.com/pointfreeco/swift-composable-architecture/pull/2369"> PR #2369 - Documetation Corection: TaskResult enum Associated Value </a> <br>
   - <a href="https://github.com/pointfreeco/swift-composable-architecture/pull/2370"> PR #2370 - Documetation Corection: From Type `FeatureAction` to Type `Action` </a> <br>
    - <a href="https://github.com/pointfreeco/swift-composable-architecture/issues/2386"> Issue #2386 - Complier can't introduce a list of completions for `Effect<Action>` when using `BindingReducer()` in body </a> <br>
-
 
 <hr>
 
