@@ -63,6 +63,7 @@ This is Celan, Lee :)
 - PointFree.co: swift-composable-architecture <br>
   - <a href="https://github.com/pointfreeco/swift-composable-architecture/pull/2369"> PR #2369 - Documetation Corection: TaskResult enum Associated Value </a> <br>
   - <a href="https://github.com/pointfreeco/swift-composable-architecture/pull/2370"> PR #2370 - Documetation Corection: From Type `FeatureAction` to Type `Action` </a> <br>
+   - <a href="https://github.com/pointfreeco/swift-composable-architecture/issues/2386"> Issue #2386 - Complier can't introduce a list of completions for `Effect<Action>` when using `BindingReducer()` in body </a> <br>
 
 
 <hr>
