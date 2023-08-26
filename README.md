@@ -1,20 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi👋🏻%20I'm%20SeungJun%20Lee&fontAlign=65&fontSize=45)
 
-Hi there! <br>
-This is Celan, Lee :)
+### Hi there!
+#### This is Celan, Lee :)
 
-<div align='leading'>
-<!-- <a href = "https://velog.io/@valse">
-  <img src="https://img.shields.io/badge/velog-20C997?style=social&logo=velog&logoColor=20C997"/>
-</a> -->
-  <a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/valselee%2Fgjbae1212%2Fhit-counter&count_bg=%23373B44&title_bg=%234286f4&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
-  <br>
-  
-  <sub>
-    <a href = "mailto:sollleky72@gmail.com"> 📮 Mail Me </a>
-  </sub>
-</div>
+![https://hits.seeyoufarm.com](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/valselee%2Fgjbae1212%2Fhit-counter&count_bg=%23373B44&title_bg=%234286f4&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 <hr>
 
@@ -45,12 +34,12 @@ This is Celan, Lee :)
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 </p>
 
-<hr>
+---
 
 ### 🪖 Work Experiences
 - ☁️ Goorm EduBiz Squad, EduOps Manager(\`21.09. ~ \`22.05., `9 months`) <br>
 
-<hr>
+---
 
 ### 🏃🏻 Activities
 ####  Apple Developer Academy @POSTECH 2nd Generation Learner(\`23.03. - ing, `9 months`)
@@ -61,6 +50,7 @@ This is Celan, Lee :)
     - May Unconference ['Code Review For Ourselves` Workshop](https://github.com/DeveloperAcademy-POSTECH/Unconference2023/tree/main/UnconferenceWorkshop/UnconferenceWorkshop) **Actor**(\'23.05.31.) 
   - [The Composable Architecture Workshop](https://github.com/ValseLee/TCA_Workshop) **Actor**(\'23.08.17., \'23.08.22.) <br>
 #### 🦁 Likelion App School 1st Generation Graduate(\`22.09. - \`23.02., `6 months`) <br>
+#### 🎓 Dankook Univ, Dept. of Philosophy, Graduated Top Honor(\`15.03. - \`22.02.) <br>
 
 ---
 
@@ -70,13 +60,13 @@ This is Celan, Lee :)
   - <a href="https://github.com/pointfreeco/swift-composable-architecture/pull/2370"> PR #2370 - Documetation Corection: From Type `FeatureAction` to Type `Action` </a> <br>
    - <a href="https://github.com/pointfreeco/swift-composable-architecture/issues/2386"> Issue #2386 - Complier can't introduce a list of completions for `Effect<Action>` when using `BindingReducer()` in body </a> <br>
 
-<hr>
+---
 
 ### 🎖️ Awards
 - 🏆 Likelion App School 1st Generation - Team Project(GitSpace) Excellence Awards <br>
 - 🏆 Likelion App School 1st Generation - Praiseworthy Companion Awards <br>
 
-<hr>
+---
 
 <p align='center'>
   <img src="https://github.com/ValseLee/ValseLee/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
