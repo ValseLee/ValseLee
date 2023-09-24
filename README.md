@@ -43,23 +43,31 @@
 ---
 
 ### 🏃🏻 Activities
+#### 🎤 Letswift 2023 Speaker
+  - [오픈 소스로서의 Swift 깊게 바라보기: Swift-evolution과 proposal](https://letswift.kr/2023/#programs)
+
 ####  Apple Developer Academy @POSTECH 2nd Generation Learner(\`23.03. - ing, `9 months`)
   - Community Builder(\`23.03. - ing, `9 months`)
     - WWDC Watch Party Organizer(\'23.06.05. - \'23.06.06.)
-    - WWDC Watch Party ['Who am I: Networking' Session](https://brunch.co.kr/@3756ea803def4ac/87) **Speaker** (\'23.06.05.)
+    - WWDC Watch Party ['Who am I: Networking' Session Speaker](https://brunch.co.kr/@3756ea803def4ac/87) (\'23.06.05.)
   - Unconference **Organizer**(\`23.05. -ing, `7 months`)
-    - May Unconference ['Code Review For Ourselves` Workshop](https://github.com/DeveloperAcademy-POSTECH/Unconference2023/tree/main/UnconferenceWorkshop/UnconferenceWorkshop) **Actor**(\'23.05.31.) 
-  - [The Composable Architecture Workshop](https://github.com/ValseLee/TCA_Workshop) **Actor**(\'23.08.17., \'23.08.22.) <br>
+    - May Unconference ['Code Review For Ourselves` Workshop Conductor](https://github.com/DeveloperAcademy-POSTECH/Unconference2023/tree/main/UnconferenceWorkshop/UnconferenceWorkshop) (\'23.05.31.) 
+  - [The Composable Architecture Workshop Conductor](https://github.com/ValseLee/TCA_Workshop) (\'23.08.17., \'23.08.22.) <br>
+
 #### 🦁 Likelion App School 1st Generation Graduate(\`22.09. - \`23.02., `6 months`) <br>
 #### 🎓 Dankook Univ, Dept. of Philosophy, Graduated Top Honor(\`15.03. - \`22.02.) <br>
 
 ---
 
 ### 🕺🏻 Contributions
-- PointFree.co: swift-composable-architecture <br>
-  - <a href="https://github.com/pointfreeco/swift-composable-architecture/pull/2369"> PR #2369 - Documetation Corection: TaskResult enum Associated Value </a> <br>
-  - <a href="https://github.com/pointfreeco/swift-composable-architecture/pull/2370"> PR #2370 - Documetation Corection: From Type `FeatureAction` to Type `Action` </a> <br>
-   - <a href="https://github.com/pointfreeco/swift-composable-architecture/issues/2386"> Issue #2386 - Complier can't introduce a list of completions for `Effect<Action>` when using `BindingReducer()` in body </a> <br>
+- **Apple**
+  - swift-evolution
+    - [PR #2170 - fix typos: SE-0406-async-stream-backpressure.md](https://github.com/apple/swift-evolution/pull/2170)
+
+- **PointFree.co: swift-composable-architecture**
+  - [PR #2369 - Documetation Corection: TaskResult enum Associated Value](https://github.com/pointfreeco/swift-composable-architecture/pull/2369)
+  - [PR #2370 - Documetation Corection: From Type `FeatureAction` to Type `Action`](https://github.com/pointfreeco/swift-composable-architecture/pull/2370)
+    - [Issue #2386 - Complier can't introduce a list of completions for `Effect<Action>` when using `BindingReducer()` in body](https://github.com/pointfreeco/swift-composable-architecture/issues/2386)
 
 ---
 
