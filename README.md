@@ -58,7 +58,17 @@
 #### 🎓 Dankook Univ, Dept. of Philosophy, Graduated Top Honor(\`15.03. - \`22.02.) <br>
 
 ---
+### 📕 Publications
+#### [SwiftUI 상태 관리부터 테스트까지 iOS 개발자를 위한 TCA 1.0](https://ridibooks.com/books/2773000087)(\`23.07. - \`23.11., `3 months`)
+- Free e-book for The Composable Architecture 1.0.0 Guide in Korean
+- **Write**
+  - Chapter 1: Intro
+  - Chapter 6: Asynchronous Code in TCA
+  - Chapter 9: From State Test to Navigation Test in TCA
+  - Chapter 10: Outro
+- **Review** and **Verify the Contents**
 
+---
 ### 🕺🏻 Contributions
 - **Apple**
   - swift-evolution
