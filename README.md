@@ -45,6 +45,7 @@
 ### 🏃🏻 Activities
 #### 🎤 Letswift 2023 Speaker
   - [오픈 소스로서의 Swift 깊게 바라보기: Swift-evolution과 proposal](https://letswift.kr/2023/#programs)
+  - [YouTube](https://www.youtube.com/watch?v=JnmK70A3LZA)
 
 ####  Apple Developer Academy @POSTECH 2nd Generation Learner(\`23.03. - ing, `9 months`)
   - Community Builder(\`23.03. - ing, `9 months`)
@@ -79,6 +80,8 @@
   - [PR #2370 - Documetation Corection: From Type `FeatureAction` to Type `Action`](https://github.com/pointfreeco/swift-composable-architecture/pull/2370)
     - [Issue #2386 - Complier can't introduce a list of completions for `Effect<Action>` when using `BindingReducer()` in body](https://github.com/pointfreeco/swift-composable-architecture/issues/2386)
 
+- **ku-ring**
+  - [기술과제 검증 및 프로세스 개선 기여](https://github.com/ku-ring/swift-cinema?tab=readme-ov-file#%EA%B2%80%EC%A6%9D-%EB%B0%8F-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B0%9C%EC%84%A0%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%84-%EC%A3%BC%EC%8B%A0-%EB%B6%84%EB%93%A4)
 ---
 
 ### 🎖️ Awards
