@@ -12,6 +12,7 @@
 <p align='leading'>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=UIkit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vapor-0D0D0D?style=flat&logo=Vapor&logoColor=purple"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
@@ -21,7 +22,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> -->
   <br>
-  
+
+  <!--
 ### 🛠 Tools
  <p align='leading'>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
@@ -38,6 +40,7 @@
 ---
 
 ### 🪖 Work Experiences
+- 🧒🏻 JEJEMEME, iOS Developer(\`24.04. ~ ing) <br>
 - ☁️ Goorm EduBiz Squad, EduOps Manager(\`21.09. ~ \`22.05., `9 months`) <br>
 
 ---
