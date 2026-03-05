@@ -3,7 +3,7 @@
 ### Hi there!
 #### This is Celan, Lee :)
 
-![https://hits.seeyoufarm.com](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/valselee%2Fgjbae1212%2Fhit-counter&count_bg=%23373B44&title_bg=%234286f4&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+<!-- ![https://hits.seeyoufarm.com](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/valselee%2Fgjbae1212%2Fhit-counter&count_bg=%23373B44&title_bg=%234286f4&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false) -->
 
 <hr>
 
@@ -40,7 +40,8 @@
 ---
 
 ### 🪖 Work Experiences
-- 🧒🏻 JEJEMEME, iOS Developer(\`24.04. ~ ing) <br>
+- 🏎️ Pitcrew, iOS Developer Lead(\`25.08. ~ \`25.11., `4 months`) <br>
+- 🧒🏻 JEJEMEME, iOS Developer(\`24.04. ~ \`25.08., `1 year & 5 months`) <br>
 - ☁️ Goorm EduBiz Squad, EduOps Manager(\`21.09. ~ \`22.05., `9 months`) <br>
 
 ---
@@ -50,11 +51,11 @@
   - [오픈 소스로서의 Swift 깊게 바라보기: Swift-evolution과 proposal](https://letswift.kr/2023/#programs)
   - [YouTube](https://www.youtube.com/watch?v=JnmK70A3LZA)
 
-####  Apple Developer Academy @POSTECH 2nd Generation Learner(\`23.03. - ing, `9 months`)
-  - Community Builder(\`23.03. - ing, `9 months`)
+####  Apple Developer Academy @POSTECH 2nd Generation Learner(\`23.03. - \`23.12., `9 months`)
+  - Community Builder(\`23.03. - \`23.12., `9 months`)
     - WWDC Watch Party Organizer(\'23.06.05. - \'23.06.06.)
     - WWDC Watch Party ['Who am I: Networking' Session Speaker](https://brunch.co.kr/@3756ea803def4ac/87) (\'23.06.05.)
-  - Unconference **Organizer**(\`23.05. -ing, `7 months`)
+  - Unconference **Organizer**(\`23.05. - \`23.12., `7 months`)
     - May Unconference ['Code Review For Ourselves` Workshop Conductor](https://github.com/DeveloperAcademy-POSTECH/Unconference2023/tree/main/UnconferenceWorkshop/UnconferenceWorkshop) (\'23.05.31.) 
   - [The Composable Architecture Workshop Conductor](https://github.com/ValseLee/TCA_Workshop) (\'23.08.17., \'23.08.22.) <br>
 
@@ -85,12 +86,6 @@
 
 - **ku-ring**
   - [기술과제 검증 및 프로세스 개선 기여](https://github.com/ku-ring/swift-cinema?tab=readme-ov-file#%EA%B2%80%EC%A6%9D-%EB%B0%8F-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B0%9C%EC%84%A0%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%84-%EC%A3%BC%EC%8B%A0-%EB%B6%84%EB%93%A4)
----
-
-### 🎖️ Awards
-- 🏆 Likelion App School 1st Generation - Team Project(GitSpace) Excellence Awards <br>
-- 🏆 Likelion App School 1st Generation - Praiseworthy Companion Awards <br>
-
 ---
 
 <p align='center'>
