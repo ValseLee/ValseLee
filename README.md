@@ -1,19 +1,31 @@
+## 👋🏽 Hello
+
+
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi👋🏻%20I'm%20SeungJun%20Lee&fontAlign=65&fontSize=45)
 
 ### Hi there!
 #### This is Celan, Lee :)
+-->
 
 <!-- ![https://hits.seeyoufarm.com](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/valselee%2Fgjbae1212%2Fhit-counter&count_bg=%23373B44&title_bg=%234286f4&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false) -->
 
+
+<!-- 
 <hr>
 
 ### ⌘ Tech Stacks
+-->
 
+<!-- 
 <p align='leading'>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=UIkit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+-->
+
+  <!-- <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=blue"/> -->
+  <!-- <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=UIkit&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> -->
+  
   <!-- <img src="https://img.shields.io/badge/Vapor-0D0D0D?style=flat&logo=Vapor&logoColor=purple"/> -->
   <!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/> -->
   
@@ -21,7 +33,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> -->
-  <br>
 
   <!--
 ### 🛠 Tools
@@ -39,13 +50,16 @@
 
 ---
 
+<!--
 ### 🪖 Work Experiences
 - 🏎️ Pitcrew, iOS Developer Lead(\`25.08. ~ \`25.11., `4 months`) <br>
 - 🧒🏻 JEJEMEME, iOS Developer(\`24.04. ~ \`25.08., `1 year & 5 months`) <br>
 - ☁️ Goorm EduBiz Squad, EduOps Manager(\`21.09. ~ \`22.05., `9 months`) <br>
 
 ---
+-->
 
+<!--
 ### 🏃🏻 Activities
 #### 🎤 Letswift 2023 Speaker
   - [오픈 소스로서의 Swift 깊게 바라보기: Swift-evolution과 proposal](https://letswift.kr/2023/#programs)
@@ -61,7 +75,9 @@
 
 #### 🦁 Likelion App School 1st Generation Graduate(\`22.09. - \`23.02., `6 months`) <br>
 #### 🎓 Dankook Univ, Dept. of Philosophy, Graduated Top Honor(\`15.03. - \`22.02.) <br>
+-->
 
+<!--
 ---
 ### 📕 Publications
 #### [SwiftUI 상태 관리부터 테스트까지 iOS 개발자를 위한 TCA 1.0](https://ridibooks.com/books/2773000087)(\`23.07. - \`23.11., `3 months`)
@@ -72,7 +88,9 @@
   - Chapter 9: From State Test to Navigation Test in TCA
   - Chapter 10: Outro
 - **Review** and **Verify the Contents**
+-->
 
+<!--
 ---
 ### 🕺🏻 Contributions
 - **Apple**
@@ -83,10 +101,13 @@
   - [PR #2369 - Documetation Corection: TaskResult enum Associated Value](https://github.com/pointfreeco/swift-composable-architecture/pull/2369)
   - [PR #2370 - Documetation Corection: From Type `FeatureAction` to Type `Action`](https://github.com/pointfreeco/swift-composable-architecture/pull/2370)
     - [Issue #2386 - Complier can't introduce a list of completions for `Effect<Action>` when using `BindingReducer()` in body](https://github.com/pointfreeco/swift-composable-architecture/issues/2386)
+-->
 
+<!--
 - **ku-ring**
   - [기술과제 검증 및 프로세스 개선 기여](https://github.com/ku-ring/swift-cinema?tab=readme-ov-file#%EA%B2%80%EC%A6%9D-%EB%B0%8F-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B0%9C%EC%84%A0%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%84-%EC%A3%BC%EC%8B%A0-%EB%B6%84%EB%93%A4)
 ---
+-->
 
 <p align='center'>
   <img src="https://github.com/ValseLee/ValseLee/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
