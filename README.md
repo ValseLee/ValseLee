@@ -1,5 +1,8 @@
 ## 👋🏽 Hello
 
+## 🔖 | Thoughts
+- ex) https://medium.com/@celanlee
+- current) https://valselee.github.io/
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi👋🏻%20I'm%20SeungJun%20Lee&fontAlign=65&fontSize=45)
